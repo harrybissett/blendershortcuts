@@ -1,2 +1,55 @@
-# blendershortcuts
+# Blender Shortcuts
 A list of keyboard shortcuts for Blender
+
+- Ctrl-Tab to change selection mode
+- Shift-A to create new object mesh
+- 1–7 for views
+- ‘Tab’ to switch between Edit and Object modes
+- ‘Space’ to bring up quick search
+- ‘M’ move to another layer
+- ‘W’ for specials (subdivide, smooth)
+- ‘G’ to move location (follow by Z, Y or Z)
+- ’S’ for scale (follow by Z, Y or Z)
+- ‘R’ for rotation (follow by Z, Y or Z)
+- ‘Z’ to toggle to wireframe
+- ‘Ctrl-Tab’ to change selection mode in Edit
+- Select to opposite edges and press ‘F’ to fill in areas
+- ‘Ctrl-R’ to add edge loops, scroll to pick how many
+- ‘Option-click’ to select loops (can pick edges, faces, vertices)
+- ‘Ctrl-alt-right-click’ to select edge ring
+- Select vertices and press ‘J’ to split them into different faces
+- ‘Shift-A’ to add a new object
+- ‘L’ to select all geometry of the current object
+- ‘Ctrl-L’ to select everything connect to face
+- ‘K’ to use knife tool to do it manually, see options in header
+- ‘0’ to get camera view
+- ‘B’ to select with rubber band and middle click to drag
+- ‘Shift-z’ while scaling to stay on the same z-axis
+- ‘Shift-d’ to duplicate, then ‘R’ rotate around 3d cursor in center, then ‘Z’ around z-axis, then 90 for 90 degrees
+- ‘Shift-s’ to get cursor to center
+- ‘Ctrl-F’ for faces, ‘Ctrl-E’ for edges
+- ‘A’ to select everything
+- ‘Alt-C’ mesh from curve
+- ‘Ctrl-B’ to bevel and scroll mouse wheel for more segments
+- ‘Ctrl’ while moving to snap to vertices
+- ‘J’ to join vertices
+- ‘Ctrl-j’ to join objects in object mode
+- ‘E’ to extrude, then ’S’ for scale
+- ‘P’ to separate
+- ‘Shift-s’ to snap the cursor and selection
+- ‘Ctrl-L’ to select linked geometry
+- ‘X’ to delete stuff
+- ‘Alt-C’ convert a curve to a mesh
+- ‘G’ and ‘G’ again to edge slide down a pipe thing
+- ’S’ then ‘Z’ then ‘0’ to move to global zero
+- ‘Ctrl-M’ to mirror
+- ‘Alt-p’ to triangle ngons
+- ‘Alt-g’ to return an object to 0,0,0 location
+- ‘U’ for the UV mapping menu
+- ‘Shift-Space’ to maximise viewport
+- ‘Ctrl-a’ to apply object transformations (zero out)
+- ‘W’ for alignment options for UV maps
+- ‘Shift-r’ to repeat last command
+- To stitch edges ‘V’ and then ‘Enter’
+- When finished unwrapping -> UVs menu item then seams from islands
+- ‘E’ to reunfold
